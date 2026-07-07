@@ -9,7 +9,7 @@ We replace the paper's original evaluation sets (Synth-500 and AgeDB) with the p
 original authors also compare against: **IP-Adapter-FaceID-PlusV2** and **PhotoMaker**.
  
 **Authors:** Louise Reis Mendes, Raianny Cristina Ferreira da Silva, Yasmin Cantanhede Santos,
-Haroldo Barroso Gomes Filho (advisor)
+Haroldo Barroso Gomes Filho
  
 ---
  
