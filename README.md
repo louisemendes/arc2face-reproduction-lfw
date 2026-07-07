@@ -138,7 +138,7 @@ benefits from larger sample sizes, is reported as an indicative value.
  
 | Method | ID Sim ↑ | LPIPS ↑ | FID ↓ |
 |--------|----------|---------|-------|
-| Arc2Face (main) | _TBD_ | _TBD_ | _TBD_ |
+| Arc2Face (main) | _0.7983_ | _0.4884_ | _218.899_ |
 | IP-Adapter-FaceID-PlusV2 | _TBD_ | _TBD_ | _TBD_ |
 | PhotoMaker | _TBD_ | _TBD_ | _TBD_ |
  
