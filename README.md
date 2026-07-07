@@ -1,8 +1,8 @@
 # Arc2Face Reproduction on LFW
  
 Reproduction and evaluation of **Arc2Face: A Foundation Model for ID-Consistent Human Faces**
-(Paraperas Papantoniou et al., ECCV 2024), carried out as the P2 assignment for the Image
-Processing course at the **Federal University of Maranhão (UFMA) — CCET**.
+(Paraperas Papantoniou et al., ECCV 2024), developed for the Image Processing course at the
+**Federal University of Maranhão (UFMA)**, Center for Exact Sciences and Technology (CCET).
  
 We replace the paper's original evaluation sets (Synth-500 and AgeDB) with the public **LFW
 (Labeled Faces in the Wild)** dataset, and compare Arc2Face against two baselines that the
