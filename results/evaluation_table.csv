@@ -1,0 +1,4 @@
+Method,ID Sim (up),LPIPS (up),FID (down)
+Arc2Face,0.7983,0.4884,218.899
+IP-Adapter-FaceID-PlusV2,0.5497,0.4791,249.193
+PhotoMaker,0.461,0.3983,243.472
