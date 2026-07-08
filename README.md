@@ -170,8 +170,7 @@ benefits from larger sample sizes, is reported as an indicative value.
 
 - English version: [`paper/arc2face_en.pdf`](paper/arc2face_en.pdf)
 - Portuguese version: [`paper/arc2face_pt.pdf`](paper/arc2face_pt.pdf)
-- Overleaf project: see [`paper/overleaf_link.txt`](paper/overleaf_link.txt)
-
+  
 ---
 
 ## References
